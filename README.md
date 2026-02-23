@@ -18,22 +18,19 @@ A GUI-based Python application to measure your typing speed (Words Per Minute) a
 ## Installation and Usage
 
 1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/Muthu-Mkode/typing-speed-tester.git](https://github.com/Muthu-Mkode/typing-speed-tester.git)
-
+```bash
+   git clone https://github.com/Muthu-Mkode/typing-speed-tester.git
 ```
 
 2. Navigate into the project directory:
 ```bash
 cd typing-speed-tester
-
 ```
 
 
 3. Run the application:
 ```bash
 python main.py
-
 ```
 
 
